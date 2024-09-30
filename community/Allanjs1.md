@@ -1,7 +1,8 @@
 # AllanJs1
 
-Olá! Me chamo Allan José e sou estudante no curso Análise e Densenvolvimento de Sistemas.
-Mergulhador na área da programação, com desejo me aprender a aprofundar cada dia mais neste área.
+Olá! Me chamo Allan José e sou estudante do curso de Análise e Densenvolvimento de Sistemas.
+
+Mergulhador na área da programação, com desejo de aprender a aprofundar cada dia mais na área.
 
 Tenho profundo conhecimento e habilidades na Linguagem Java (Backend).
 
